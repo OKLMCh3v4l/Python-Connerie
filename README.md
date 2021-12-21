@@ -1,2 +1,3 @@
 # Python-Connerie
-le zamal mon gars
+Fait un bruit de proute hihi
+A compile avec Nuitka
